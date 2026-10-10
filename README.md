@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon profil !
 
-**Étudiant en Cybersécurité & Réseaux.** 
+**Étudiant en Cybersécurité** 
 
 ---
 
