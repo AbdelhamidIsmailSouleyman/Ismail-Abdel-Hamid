@@ -6,14 +6,14 @@
 
 # 🛠️ Mon Lab & Projets
 
-## 🛡️ Sécurité & Pentest
+**🛡️ Sécurité & Pentest**
 
-## 🌐 Ingénierie Réseau
+**🌐 Ingénierie Réseau**
 *  Cisco Packet Tracer 
 
 ---
 
-## 🧰 Technologies & Outils
+**🧰 Technologies & Outils**
 
 * **OS & Systèmes :** Linux, Windows, Kali Linux
 * **Réseau :** Protocoles (OSPF, BGP, VLANs, TCP/IP), Cisco IOS
